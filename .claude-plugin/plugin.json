@@ -1,0 +1,25 @@
+{
+  "name": "znerol74-skills",
+  "version": "1.0.0",
+  "description": "Lorenz Kutschka's agent skills for growing small web products: SEO keyword research with real data, and a checkout and paywall optimizer for Stripe.",
+  "author": {
+    "name": "Lorenz Kutschka",
+    "url": "https://github.com/znerol74"
+  },
+  "homepage": "https://github.com/znerol74/skills",
+  "repository": "https://github.com/znerol74/skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "growth",
+    "seo",
+    "checkout",
+    "paywall",
+    "stripe",
+    "conversion"
+  ],
+  "skills": [
+    "./skills/growth/checkout-optimizer",
+    "./skills/growth/seo-scale"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "znerol74",
+  "owner": {
+    "name": "Lorenz Kutschka",
+    "url": "https://github.com/znerol74"
+  },
+  "metadata": {
+    "description": "Lorenz Kutschka's skills, as an installable Claude Code plugin."
+  },
+  "plugins": [
+    {
+      "name": "znerol74-skills",
+      "source": "./",
+      "description": "Agent skills for growing small web products: SEO keyword research with real data, and a checkout and paywall optimizer for Stripe.",
+      "category": "productivity",
+      "keywords": [
+        "growth",
+        "seo",
+        "checkout",
+        "paywall",
+        "stripe"
+      ]
+    }
+  ]
+}
